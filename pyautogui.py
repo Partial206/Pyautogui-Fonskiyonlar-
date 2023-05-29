@@ -11,3 +11,5 @@
 **pyautogui.typewrite("adana") : ** Yazı yazar klavye işlevi görür
 **pyautogui.alert(text="adana") : ** Hata kutusuna benzer kutu çıkartır
 **pyautogui.prompt(text="adana") : ** text kutusu çıkartır
+**pyautogui.screenshot("KAYDEDİLECEK OLAN DOSYANIN KONUMU") ** Screenshot alıp kaydeder siz tabi bunun ayarlarını ayarlayabilirsiniz fakat yer yetmiyor malesef :(
+
